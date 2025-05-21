@@ -1,0 +1,14 @@
+C:\Users\roger\source\repos\ProjetoLocadora\bin\Debug\net8.0\ProjetoLocadora.exe
+C:\Users\roger\source\repos\ProjetoLocadora\bin\Debug\net8.0\ProjetoLocadora.deps.json
+C:\Users\roger\source\repos\ProjetoLocadora\bin\Debug\net8.0\ProjetoLocadora.runtimeconfig.json
+C:\Users\roger\source\repos\ProjetoLocadora\bin\Debug\net8.0\ProjetoLocadora.dll
+C:\Users\roger\source\repos\ProjetoLocadora\bin\Debug\net8.0\ProjetoLocadora.pdb
+C:\Users\roger\source\repos\ProjetoLocadora\obj\Debug\net8.0\ProjetoLocadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\source\repos\ProjetoLocadora\obj\Debug\net8.0\ProjetoLocadora.AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\ProjetoLocadora\obj\Debug\net8.0\ProjetoLocadora.AssemblyInfo.cs
+C:\Users\roger\source\repos\ProjetoLocadora\obj\Debug\net8.0\ProjetoLocadora.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\ProjetoLocadora\obj\Debug\net8.0\ProjetoLocadora.dll
+C:\Users\roger\source\repos\ProjetoLocadora\obj\Debug\net8.0\refint\ProjetoLocadora.dll
+C:\Users\roger\source\repos\ProjetoLocadora\obj\Debug\net8.0\ProjetoLocadora.pdb
+C:\Users\roger\source\repos\ProjetoLocadora\obj\Debug\net8.0\ProjetoLocadora.genruntimeconfig.cache
+C:\Users\roger\source\repos\ProjetoLocadora\obj\Debug\net8.0\ref\ProjetoLocadora.dll
